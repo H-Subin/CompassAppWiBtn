@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=6B:5D:1B:CF:83:0B:1F:23:4E:91:98:4C:57:4A:A9:D8:41:A6:2B:66%3Bcom.example.compassappwibtn
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.example.compassappwibtn
+
+    SHA-1 certificate fingerprint:
+    6B:5D:1B:CF:83:0B:1F:23:4E:91:98:4C:57:4A:A9:D8:41:A6:2B:66
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">YOUR_KEY_HERE</string>
+</resources>
